@@ -30,5 +30,3 @@ The implementation includes a unified GUI that displays the original video, raw 
 - **Configurable Parameters**: history length, thresholds, shadow detection, initialization frames, decision thresholds.
 
 ---
-
-## 📂 Project Structure
